@@ -11,3 +11,4 @@ create interface for abstract savings planning
 ****Work****
 
 Automate choice maker - Let's have some fun
+Create patterned-contributions in github 
